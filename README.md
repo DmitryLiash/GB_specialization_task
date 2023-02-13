@@ -14,3 +14,6 @@
 2. ["1234", "1567", "-2", "That's Jason Bourne"] -> ["-2"]
 3. ["Russia", "Denmark", "Kazan"] -> []
 
+
+<image src="diagram.jpg" alt="алгоритм">
+
