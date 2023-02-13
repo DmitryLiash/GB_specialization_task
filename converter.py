@@ -11,3 +11,14 @@ def SerchCharacterLength(argument):
             newOne.append(element)
     return newOne
 print(SerchCharacterLength(createArray()))
+
+
+
+
+
+
+
+
+
+
+# print(*[i for i in (list(input("введите значения через пробел:").split())) if len(i) <= 3])
